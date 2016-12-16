@@ -1,0 +1,2 @@
+﻿1. Created a project in ASP.NET MVC Framework.
+2. Enable-Migrations help you to create the database with CODE_FIRST MIGRATION approach in PACKAGE MANAGER CONSOLE.
